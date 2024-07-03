@@ -83,7 +83,12 @@ DATABASES = {
     }
 }
 
-# import os
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.dummy',
+#     }
+# }
+# # import os
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
