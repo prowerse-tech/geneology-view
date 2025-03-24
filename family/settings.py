@@ -81,12 +81,7 @@ WSGI_APPLICATION = 'family.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.dummy',
-#     }
-# }
-# import tempfile
+
 DATABASES = {}
 # BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # CACHES = {
